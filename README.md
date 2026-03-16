@@ -44,4 +44,4 @@ The dashboard includes sample data for:
 This project shows how customer success leaders can use simple data models and dashboards to improve service quality, reduce churn risk, and support operational decision-making.
 
 ## Author
-Karthikeyan Mohandos
+Karthikeyan Mohandoss
