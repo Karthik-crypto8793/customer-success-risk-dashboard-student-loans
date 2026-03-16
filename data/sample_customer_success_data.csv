@@ -1,0 +1,13 @@
+Customer_ID,Country,Loan_Stage,Application_Status,Days_In_Stage,Followup_Count,Complaint_Flag,Escalation_Flag,Risk_Level,CSAT,Channel,Agent_Name
+C001,USA,Lead,Open,2,1,No,No,Low,4.5,Email,Agent A
+C002,Canada,Document Verification,Pending,8,3,Yes,No,High,3.1,Phone,Agent B
+C003,UK,Sanction Review,In Progress,6,2,No,No,Medium,3.8,Email,Agent C
+C004,Australia,Disbursement,Completed,1,1,No,No,Low,4.8,Chat,Agent A
+C005,USA,Document Verification,Pending,10,4,Yes,Yes,High,2.9,Phone,Agent D
+C006,Canada,Lead,Open,3,1,No,No,Low,4.2,Email,Agent B
+C007,UK,Sanction Review,Pending,9,3,Yes,No,High,3.0,Chat,Agent C
+C008,Australia,Disbursement,Completed,2,1,No,No,Low,4.9,Email,Agent A
+C009,USA,Document Verification,In Progress,5,2,No,No,Medium,3.9,Phone,Agent D
+C010,Canada,Lead,Open,4,2,No,No,Low,4.0,Chat,Agent B
+C011,UK,Disbursement,Completed,1,1,No,No,Low,4.7,Email,Agent C
+C012,Australia,Sanction Review,Pending,7,3,Yes,Yes,High,2.8,Phone,Agent A
